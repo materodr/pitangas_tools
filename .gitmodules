@@ -1,0 +1,3 @@
+[submodule "pitangas_plot"]
+	path = pitangas_plot
+	url = https://github.com/materodr/pitangas_plot.git
